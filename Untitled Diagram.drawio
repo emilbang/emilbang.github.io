@@ -1,24 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T12:29:47.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="xNyI3D5ERm48Y_NWAivV" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T12:46:01.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="Y7c0tdv8s0ZLj29QWpht" version="17.4.1" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0YkN7FA_I91x9jAutYYU-3" value="" style="swimlane;startSize=0;swimlaneFillColor=none;fillColor=none;strokeColor=#000000;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="110" y="160" width="182.5" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="0YkN7FA_I91x9jAutYYU-1" value="RaspberryPi m. LoRa reciever + cron + python + wifi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-3">
-          <mxGeometry x="20" y="167.5" width="150" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="RaspberryPi m. LoRa reciever + cron + python + wifi" link="https://en.wikipedia.org/wiki/Raspberry_Pi" id="0YkN7FA_I91x9jAutYYU-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-3">
+            <mxGeometry x="20" y="167.5" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="0YkN7FA_I91x9jAutYYU-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.537;exitY=-0.008;exitDx=0;exitDy=0;startArrow=none;exitPerimeter=0;" edge="1" parent="0YkN7FA_I91x9jAutYYU-3" source="0YkN7FA_I91x9jAutYYU-24" target="0YkN7FA_I91x9jAutYYU-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="260" as="sourcePoint" />
             <mxPoint x="135" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0YkN7FA_I91x9jAutYYU-12" value="RUT router m. wifi og 3G" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-3">
-          <mxGeometry x="35" y="45" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="RUT router m. wifi og 3G" link="https://wiki.teltonika-networks.com/view/RUT_Routers" id="0YkN7FA_I91x9jAutYYU-12">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-3">
+            <mxGeometry x="35" y="45" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="0YkN7FA_I91x9jAutYYU-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.794;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="0YkN7FA_I91x9jAutYYU-3" source="0YkN7FA_I91x9jAutYYU-4" target="0YkN7FA_I91x9jAutYYU-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -48,9 +52,11 @@
             <mxPoint x="98" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0YkN7FA_I91x9jAutYYU-10" value="LoRa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-3">
-          <mxGeometry x="72.5" y="245" width="50" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="LoRa" link="https://en.wikipedia.org/wiki/LoRa" id="0YkN7FA_I91x9jAutYYU-10">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-3">
+            <mxGeometry x="72.5" y="245" width="50" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="0YkN7FA_I91x9jAutYYU-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="0YkN7FA_I91x9jAutYYU-3" source="0YkN7FA_I91x9jAutYYU-26" target="0YkN7FA_I91x9jAutYYU-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="202.5" y="450" as="sourcePoint" />
@@ -63,18 +69,24 @@
         <mxCell id="0YkN7FA_I91x9jAutYYU-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0YkN7FA_I91x9jAutYYU-7" source="0YkN7FA_I91x9jAutYYU-2" target="0YkN7FA_I91x9jAutYYU-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0YkN7FA_I91x9jAutYYU-2" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-7">
-          <mxGeometry x="55" y="150" width="60" height="80" as="geometry" />
-        </mxCell>
+        <UserObject label="DB" link="https://wiki.frederiksberg.dk/index.php/Iot" id="0YkN7FA_I91x9jAutYYU-2">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-7">
+            <mxGeometry x="55" y="150" width="60" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="0YkN7FA_I91x9jAutYYU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0YkN7FA_I91x9jAutYYU-7" source="0YkN7FA_I91x9jAutYYU-20" target="0YkN7FA_I91x9jAutYYU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0YkN7FA_I91x9jAutYYU-20" value="Node-RED" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-7">
-          <mxGeometry x="25" y="45" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0YkN7FA_I91x9jAutYYU-35" value="Grafana" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-7">
-          <mxGeometry x="25" y="283" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Node-RED" link="https://wiki.frederiksberg.dk/index.php/Node-RED" id="0YkN7FA_I91x9jAutYYU-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-7">
+            <mxGeometry x="25" y="45" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Grafana" link="https://wiki.frederiksberg.dk/index.php/Grafana" id="0YkN7FA_I91x9jAutYYU-35">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="0YkN7FA_I91x9jAutYYU-7">
+            <mxGeometry x="25" y="283" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="0YkN7FA_I91x9jAutYYU-22" value="DigitalOcean server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="150" height="20" as="geometry" />
         </mxCell>
