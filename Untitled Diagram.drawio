@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T12:46:44.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="nWyUBv5HpLUeVSKtKr5J" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T12:51:36.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="lJS-aMV3Bf0d3y4nn6xY" version="17.4.1" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -92,8 +92,8 @@
         <mxCell id="0YkN7FA_I91x9jAutYYU-22" value="DigitalOcean server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0YkN7FA_I91x9jAutYYU-38" value="Rahbeks Allé setup" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="140" height="20" as="geometry" />
+        <mxCell id="0YkN7FA_I91x9jAutYYU-38" value="Trykmålere på Rahbeks Allé" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0YkN7FA_I91x9jAutYYU-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="0YkN7FA_I91x9jAutYYU-12" target="0YkN7FA_I91x9jAutYYU-19">
           <mxGeometry relative="1" as="geometry">
